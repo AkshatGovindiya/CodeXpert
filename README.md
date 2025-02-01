@@ -4,7 +4,7 @@
 
 AI-Powered Code Assistant is an intelligent coding companion designed to help developers write, debug, and optimize code efficiently. With AI-driven suggestions, code completions, and real-time assistance, this tool enhances productivity and simplifies complex programming tasks.
 
-##🎯 Features
+## 🎯 Features
 
 **Smart Code Completion** – Get AI-driven code suggestions as you type.
 
